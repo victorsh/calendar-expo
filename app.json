@@ -5,6 +5,18 @@
       "bundler": "metro"
     },
     "name": "a-calendar-app",
-    "slug": "a-calendar-app"
+    "slug": "a-calendar-app",
+    "extra": {
+      "eas": {
+        "projectId": "568621f5-735f-4720-a670-3794f1541d09"
+      }
+    },
+    "owner": "cutmoney",
+    "android": {
+      "package": "com.cutmoney.acalendarapp"
+    },
+    "ios": {
+      "bundleIdentifier": "com.cutmoney.acalendarapp"
+    }
   }
 }
